@@ -1,5 +1,5 @@
 #!bin/bash
-#!/bin/bash
+
 
 # Seuils
 CPU_THRESHOLD=80
